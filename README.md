@@ -1,4 +1,4 @@
-# JS--Blockchain
+# JS-Blockchain
 Blockchain Implementation in Javascript.
 The implementation includes:
 1. Blockchain Data Structure
